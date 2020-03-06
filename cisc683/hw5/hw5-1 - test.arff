@@ -1,0 +1,10 @@
+@relation hw5-1
+
+@attribute VET {yes,no}
+@attribute AREA {tech,finance,clerical,sales}
+@attribute YEARS numeric
+@attribute EDUCATION {college,secondary,graduate}
+@attribute DECISION {maybe,reject,hire}
+
+@data
+yes,sales,27,secondary,hire

@@ -1,0 +1,12 @@
+AGE,HAIR,UPKEEP,SHOTS,HOUSEPET
+old,long,med,none,NO
+young,med,low,some,YES
+old,med,med,none,NO
+old,med,low,none,NO
+med,med,low,some,MAYBE
+old,med,med,some,NO
+med,med,tremendous,none,NO
+old,short,high,none,NO
+old,short,high,some,NO
+med,horrid,low,some,MAYBE
+med,med,tremendous,all,MAYBE

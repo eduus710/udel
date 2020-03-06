@@ -1,0 +1,13 @@
+HAIR,UPKEEP,SHOTS,AGE,HOUSEPET
+short,med,some,young,yes
+short,high,none,young,no
+short,tremendous,all,med,ok
+med,tremendous,some,med,ok
+horrid,tremendous,some,med,no
+med,tremendous,all,old,no
+med,low,some,med,ok
+long,med,some,young,yes
+short,med,none,med,no
+long,med,some,old,no
+short,low,none,young,no
+med,med,all,med,ok

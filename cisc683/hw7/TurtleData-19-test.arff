@@ -1,0 +1,18 @@
+@relation TurtleData-19-test
+
+@attribute temp numeric
+@attribute sex {female,male}
+
+@data
+25.5,female
+26.0,female
+26.5,female
+27.0,female
+27.5,female
+28.0,female
+28.5,female
+29.0,female
+29.5,female
+30.0,female
+30.5,female
+31.0,female

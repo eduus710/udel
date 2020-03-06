@@ -1,0 +1,56 @@
+@relation crx-partial
+
+@attribute A1 {b,a}
+@attribute A2 numeric
+@attribute A6 {w,q,m,r,cc,k,c,d,x,i,e,aa,ff,j}
+@attribute A7 {v,h,bb,ff,j,z,o,dd,n}
+@attribute A8 numeric
+@attribute A9 {t,f}
+@attribute A10 {t,f}
+@attribute CREDIT {+,-}
+
+@data
+
+b,30.83,w,v,1.25,t,t,+
+b,22.08,c,h,2.165,f,f,+
+a,47.75,c,v,7.875,t,t,+
+b,23.92,c,v,0.165,f,f,+
+a,23.5,q,v,8.5,t,t,+
+a,47.42,e,bb,6.5,t,t,+
+b,36.25,c,bb,2.5,t,t,+
+b,32.67,q,h,5.5,t,t,+
+a,18.42,q,v,1.21,t,t,+
+b,20.17,aa,v,1.96,t,t,+
+b,47.67,c,bb,15,t,t,+
+a,21.25,i,bb,0.5,t,t,+
+a,48.17,i,o,0.335,f,f,-
+a,20.42,x,h,0,f,f,-
+b,50.75,ff,ff,0,f,f,-
+b,22.17,c,v,3.335,f,t,-
+a,57.58,ff,ff,6.5,f,t,-
+b,18.25,d,v,0.25,f,f,-
+b,23.42,c,v,0.5,f,f,-
+a,15.92,q,v,0.085,f,f,-
+b,34.83,w,v,3,f,f,-
+b,?,i,v,0.085,f,f,-
+a,22.25,ff,ff,3.25,f,f,-
+b,22.5,k,v,0.125,f,f,-
+b,26.75,d,v,0.75,f,f,-
+b,23.58,i,h,0.085,f,f,-
+b,39.17,i,h,10,f,f,-
+a,28.58,q,v,2.415,t,f,-
+b,45.17,c,v,2.5,t,f,-
+b,41.58,k,v,0.21,t,f,-
+a,57.08,i,bb,1,t,f,-
+b,29.83,k,v,0.25,f,f,-
+b,20.08,q,v,0.125,f,f,-
+b,23.42,c,h,0.085,t,f,-
+b,24.08,aa,v,0.25,f,f,-
+b,25.58,k,h,3.5,f,f,-
+a,35.17,ff,ff,0,f,t,-
+b,19.42,m,v,0.04,f,t,-
+a,17.92,ff,ff,0,f,f,-
+a,20.08,c,v,0,f,f,-
+b,20.11,c,v,0,f,f,+
+b,24.00,aa,v,0.33,f,f,+
+

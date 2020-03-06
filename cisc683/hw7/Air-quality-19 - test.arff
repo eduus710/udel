@@ -1,0 +1,9 @@
+@relation Air-quality-19
+
+@attribute Air-qual numeric
+@attribute CO2 numeric
+@attribute Nox numeric
+@attribute Sox numeric
+
+@data
+177.78,86,22,12

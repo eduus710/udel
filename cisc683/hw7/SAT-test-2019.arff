@@ -1,0 +1,23 @@
+@relation SAT-test-2017
+
+@attribute ﻿SAT-READING numeric
+@attribute SAT-ESSAY numeric
+@attribute SAT-MATH numeric
+@attribute HS-GPA numeric
+@attribute DEGREE {Regular,H-Honors,No-degree,Honors}
+
+@data
+580,21,620,3.6,Regular
+770,20,710,3.4,H-Honors
+798,19,780,3.5,Regular
+620,17,630,2.5,No-degree
+400,15,520,3.8,Regular
+560,20,510,3.2,Regular
+550,15,580,3.7,Honors
+620,20,650,3.1,Regular
+450,12,510,2.8,No-degree
+770,18,772,3.5,H-Honors
+560,24,520,2,No-degree
+650,22,660,3.7,Honors
+560,19,480,3.4,Honors
+700,15,650,3.75,Honors

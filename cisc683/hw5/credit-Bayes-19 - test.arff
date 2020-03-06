@@ -1,0 +1,16 @@
+@relation crx-partial
+
+@attribute A1 {b,a}
+@attribute A2 numeric
+@attribute A6 {w,q,m,r,cc,k,c,d,x,i,e,aa,ff,j}
+@attribute A7 {v,h,bb,ff,j,z,o,dd,n}
+@attribute A8 numeric
+@attribute A9 {t,f}
+@attribute A10 {t,f}
+@attribute CREDIT {+,-}
+
+@data
+
+b,34,w,v,1.10,t,f,+
+b,45,i,o,0.635,f,t,+
+a,?,i,v,0.100,f,f,+

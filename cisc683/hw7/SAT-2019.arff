@@ -1,0 +1,26 @@
+@relation SAT-2019
+
+@attribute ﻿SAT-READING numeric
+@attribute SAT-ESSAY numeric
+@attribute SAT-MATH numeric
+@attribute HS-GPA numeric
+@attribute DEGREE {Regular,H-Honors,No-degree,Honors}
+
+@data
+600,20,660,3.2,Regular
+785,19,770,3.2,H-Honors
+789,20,775,3.5,Regular
+650,22,600,2.3,No-degree
+450,16,500,3.4,Regular
+540,18,440,3,Regular
+545,13,600,3.8,Honors
+620,20,650,2.7,Regular
+400,9,350,2.8,No-degree
+770,18,772,3.5,H-Honors
+560,24,520,2,No-degree
+620,17,620,3.6,Honors
+720,13,680,3.1,Regular
+610,22,430,3.8,Honors
+666,17,550,3.8,H-Honors
+710,23,690,3.7,H-Honors
+750,22,740,3.9,H-Honors
